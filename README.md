@@ -1,2 +1,18 @@
-# HandTrackingAI
-Python-based AI Hand Tracking using Mediapipe for real-time gesture recognition. Detects 12 gestures/sec with 95% accuracy and &lt;3% error. Optimized for cross-platform use, enabling fast, reliable hand gesture monitoring for interactive apps, VR, and robotics.
+# AI Hand Tracking - Gesture Recognition
+
+A real-time hand tracking and gesture recognition system developed using Python, OpenCV, and MediaPipe.
+
+## Features
+- Real-time hand detection
+- Finger landmark tracking
+- Gesture recognition
+- Live webcam integration
+
+## Tech Stack
+- Python
+- OpenCV
+- MediaPipe
+- NumPy
+
+## Results
+Achieved approximately 95% gesture recognition accuracy through testing and optimization.
